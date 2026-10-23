@@ -1,0 +1,21 @@
+Pclass,Age,SibSp,Parch,Fare,Sex,Embarked,Actual_Survived,Predicted_Survived,Survival_Probability,Prediction_Label,Status
+3,24.0,2,0,24.15,male,S,0,0,11.28,Did Not Survive,Correct
+3,44.0,0,1,16.1,male,S,0,0,14.92,Did Not Survive,Correct
+3,22.0,0,0,7.225,male,C,1,0,9.59,Did Not Survive,Mismatch
+3,41.0,2,0,14.1083,male,S,0,0,9.36,Did Not Survive,Correct
+3,,1,0,15.5,female,Q,1,1,73.53,Survived,Correct
+3,36.0,1,0,17.4,female,S,1,0,34.94,Did Not Survive,Mismatch
+2,36.0,0,0,13.0,female,S,1,1,88.17,Survived,Correct
+1,45.0,0,0,26.55,male,S,0,0,43.35,Did Not Survive,Correct
+1,49.0,1,1,110.8833,male,C,0,0,39.89,Did Not Survive,Correct
+2,34.0,1,0,26.0,male,S,0,0,13.98,Did Not Survive,Correct
+3,,0,0,7.75,male,Q,0,0,12.02,Did Not Survive,Correct
+3,16.0,2,0,18.0,male,S,0,0,12.79,Did Not Survive,Correct
+3,27.0,0,0,7.925,female,S,1,0,47.82,Did Not Survive,Mismatch
+2,31.0,1,1,37.0042,male,C,0,0,35.67,Did Not Survive,Correct
+1,19.0,3,2,263.0,male,S,0,0,43.85,Did Not Survive,Correct
+3,25.0,0,0,7.7417,male,Q,0,0,8.54,Did Not Survive,Correct
+3,,3,1,25.4667,female,S,0,0,19.22,Did Not Survive,Correct
+3,,0,0,8.05,male,S,0,0,9.72,Did Not Survive,Correct
+3,17.0,0,0,7.125,male,S,0,0,7.88,Did Not Survive,Correct
+2,34.0,0,0,13.0,female,S,1,1,89.12,Survived,Correct
